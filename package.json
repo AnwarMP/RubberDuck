@@ -13,6 +13,8 @@
     "electron": "^31.3.0"
   },
   "dependencies": {
-    "@abandonware/noble": "^1.9.2-25"
+    "@abandonware/noble": "^1.9.2-25",
+    "axios": "^1.7.2",
+    "ws": "^8.18.0"
   }
 }
